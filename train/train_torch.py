@@ -1,5 +1,5 @@
 import torch
-from torch_model import Torch_Model
+from train.rain import Torch_Model
 import torchvision
 import torch.utils.data
 import torch.optim as optim 
